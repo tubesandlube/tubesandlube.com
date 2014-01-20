@@ -1,0 +1,10 @@
+body {
+
+  background-attachment: fixed;
+  background-color: #f68a1f;
+  background-image: url('/img/tnl-logo-orange-transparent.png');
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: 500px 500px;
+
+}
